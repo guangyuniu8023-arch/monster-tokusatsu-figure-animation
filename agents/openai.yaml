@@ -1,0 +1,4 @@
+interface:
+  display_name: "怪物特摄手办动画"
+  short_description: "生成多样小怪兽手办在写实微缩空间上演抽帧日常喜剧的图像、视频与分镜"
+  default_prompt: "使用 $monster-tokusatsu-figure-animation 和内置原创风格参考图，将我的文字或参考图转换为怪物特摄手办动画。"
